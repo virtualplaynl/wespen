@@ -1,0 +1,1 @@
+new WespenGame("WESPEn Demo", 0, 0, phongVertShader, phongFragShader, true, new PhysicsScene());
